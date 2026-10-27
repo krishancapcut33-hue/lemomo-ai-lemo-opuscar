@@ -1,0 +1,20 @@
+{
+ "slug": "memphis-diorama",
+ "num": "71",
+ "en": "Memphis Diorama",
+ "cn": "孟菲斯微缩景观",
+ "category_en": "Materials & 3D",
+ "category_cn": "材质与 3D",
+ "film": "Four Seasons in Pomelo Town",
+ "line": "One river bend through spring, summer, autumn and winter in one take; each season starts when the big tree squats and springs back.",
+ "line_cn": "同一个河湾一镜到底过完春夏秋冬：大树往下一蹲、再弹起来，就换一季。",
+ "uses": [
+  "Web hero scenes",
+  "Ambient loops",
+  "Seasonal series",
+  "How things work",
+  "City data maps"
+ ],
+ "frame_sec": 25.0,
+ "dur": 40.0
+}
